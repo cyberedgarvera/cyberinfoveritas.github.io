@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All Posts on Cyber Info Veritas</title>
+    <link>https://github.com/cyberedgarvera/cyberinfoveritas/</link>
+    <description>Recent content in All Posts on Cyber Info Veritas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2020 07:21:12 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/cyberedgarvera/cyberinfoveritas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Solve the Cybersecurity Skills Shortage</title>
+      <link>https://github.com/cyberedgarvera/cyberinfoveritas/posts/general/how-to-solve-the-cybersecurity-skills-shortage/</link>
+      <pubDate>Sun, 19 Jan 2020 15:21:53 -0400</pubDate>
+      
+      <guid>https://github.com/cyberedgarvera/cyberinfoveritas/posts/general/how-to-solve-the-cybersecurity-skills-shortage/</guid>
+      <description>We&#39;ve all read and heard somewhere about the cybersecurity skills shortage. For me, this brings up the question of how to solve the cybersecurity skills shortage.
+In my life, I’ve learned that every problem has a solution. Solving the cybersecurity skills shortage should be no different. It is just a matter of giving it some perspective and being creative.
+This creativity works only if you are willing to put the effort into applying the solution that this problem requires.</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity Degree or Certification</title>
+      <link>https://github.com/cyberedgarvera/cyberinfoveritas/posts/career/cybersecurity-degree-or-certification/</link>
+      <pubDate>Sun, 19 Jan 2020 14:50:09 -0400</pubDate>
+      
+      <guid>https://github.com/cyberedgarvera/cyberinfoveritas/posts/career/cybersecurity-degree-or-certification/</guid>
+      <description>In my post What is Cybersecurity? I discuss how cybersecurity came to be, where its etymology came from and which specialties contributed to this.
+In this post, I’ll be discussing what many people tend to ask me and others in this field “do I require a Cybersecurity Degree or Certification?”. For which I’ll say: “Do you know anything about Cybersecurity?”.
+If you ask any company that works with cybersecurity professionals such as cybersecurity firms or highly regulated institutions, they will show you a list of the requirements that could seem daunting.</description>
+    </item>
+    
+    <item>
+      <title>What Is Cybersecurity</title>
+      <link>https://github.com/cyberedgarvera/cyberinfoveritas/posts/general/what-is-cybersecurity/</link>
+      <pubDate>Sun, 19 Jan 2020 13:17:57 -0400</pubDate>
+      
+      <guid>https://github.com/cyberedgarvera/cyberinfoveritas/posts/general/what-is-cybersecurity/</guid>
+      <description>There are several definitions of what is cybersecurity depending on where you search. The one site that I think best describes it is Wikipedia:
+“Cybersecurity, computer security or IT security is the protection of computer systems from the theft and damage to their hardware, software or information, as well as from disruption or misdirection of the services they provide.
+Cybersecurity includes controlling physical access to the hardware, as well as protecting against harm that may come via network access, data, and code injection.</description>
+    </item>
+    
+  </channel>
+</rss>
